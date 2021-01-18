@@ -4,15 +4,27 @@ A repository to curate and summarize research papers related to knowledge graph 
 
 **Keyword:** Knowledge Graph Completion; Link Prediction
 
+<!-- TOC -->
 
+- [Awesome KGC](#awesome-kgc)
+  - [Survey :D](#survey-d)
+  - [Papers Must be read :(](#papers-must-be-read-)
+    - [Topic 1 - Knowledge Embedding](#topic-1---knowledge-embedding)
+      - [TransX](#transx)
+      - [Tensor Decomposition](#tensor-decomposition)
+      - [Neural Network](#neural-network)
+      - [Implementation Tricks](#implementation-tricks)
+    - [Topic 2 - Path Reasoning](#topic-2---path-reasoning)
+    - [Topic 3 - Rule mining](#topic-3---rule-mining)
+  - [Playground :)](#playground-)
 
-[toc]
+<!-- /TOC -->
 
 ## Survey :D
 
-- Knowledge Graph Completion: A Review. IEEE Access. 2020. [[paper]]([Knowledge Graph Completion: A Review - IEEE Journals & Magazine](https://ieeexplore.ieee.org/document/9220143))
+- Knowledge Graph Completion: A Review. IEEE Access. 2020. [[paper]](https://ieeexplore.ieee.org/document/9220143)
 
-- CoDEx**:** A Comprehensive Knowledge Graph Completion Benchmark. 2020. [[paper]](https://arxiv.org/abs/2009.07810)
+- CoDEx: A Comprehensive Knowledge Graph Completion Benchmark. 2020. [[paper]](https://arxiv.org/abs/2009.07810)
 - And **RELATED WORK** part in new papers ...
 
 
@@ -38,7 +50,7 @@ A repository to curate and summarize research papers related to knowledge graph 
     - Canonical Tensor Decomposition for Knowledge Base Completion. ICML. 2018. [[paper]](http://proceedings.mlr.press/v80/lacroix18a.html)
   - **[SimplE]** SimplE Embedding for Link Prediction in Knowledge Graphs. NeurlPS. 2018. [[paper]](http://papers.nips.cc/paper/7682-simple-embedding-for-link-prediction-in-knowledge-graphs)
     - *[CP]* The expression of a tensor or a polyadic as a sum of products.  Studies in Applied Mathematics.1927. [[paper]](https://onlinelibrary.wiley.com/doi/abs/10.1002/sapm192761164)
-    - Knowledge Base Completion**:** Baselines Strike Back. Rep4NLP@ACL. 2017. [[paper]](https://doi.org/10.18653/v1/w17-2609)
+    - Knowledge Base Completion: Baselines Strike Back. Rep4NLP@ACL. 2017. [[paper]](https://doi.org/10.18653/v1/w17-2609)
 
 
 
@@ -53,7 +65,7 @@ A repository to curate and summarize research papers related to knowledge graph 
 #### Implementation Tricks
 
 - Realistic Re-evaluation of Knowledge Graph Completion Methods: An Experimental Study. SIGMOD. 2020. [[paper]](https://doi.org/10.1145/3318464.3380599)
-- You CAN Teach an Old Dog New Tricks**!** On Training Knowledge Graph Embeddings. ICLR. 2020. [[paper]](https://openreview.net/forum?id=BkxSmlBFvr)
+- You CAN Teach an Old Dog New Tricks! On Training Knowledge Graph Embeddings. ICLR. 2020. [[paper]](https://openreview.net/forum?id=BkxSmlBFvr)
 
 
 
@@ -77,5 +89,6 @@ A repository to curate and summarize research papers related to knowledge graph 
 
 
 ## Playground :)
+
 
 coming soon ... 
