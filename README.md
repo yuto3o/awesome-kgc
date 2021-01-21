@@ -8,7 +8,7 @@ A repository to curate and summarize research papers related to knowledge graph 
 
 - [Awesome KGC](#awesome-kgc)
   - [Survey :D](#survey-d)
-  - [Papers Must be read :(](#papers-must-be-read-)
+  - [Papers Must be Read :(](#papers-must-be-read-)
     - [Topic 1 - Knowledge Embedding](#topic-1---knowledge-embedding)
       - [TransX](#transx)
       - [Tensor Decomposition](#tensor-decomposition)
@@ -17,19 +17,23 @@ A repository to curate and summarize research papers related to knowledge graph 
     - [Topic 2 - Path Reasoning](#topic-2---path-reasoning)
     - [Topic 3 - Rule mining](#topic-3---rule-mining)
   - [Playground :)](#playground-)
+    - [Knowledge Embedding](#knowledge-embedding)
+      - [Open World Assumption](#open-world-assumption)
+      - [Zero/One/Few-shot](#zeroonefew-shot)
+    - [Path Reasoning](#path-reasoning)
+    - [Rule mining](#rule-mining)
 
 <!-- /TOC -->
 
 ## Survey :D
 
 - Knowledge Graph Completion: A Review. IEEE Access. 2020. [[paper]](https://ieeexplore.ieee.org/document/9220143)
-
 - CoDEx: A Comprehensive Knowledge Graph Completion Benchmark. 2020. [[paper]](https://arxiv.org/abs/2009.07810)
 - And **RELATED WORK** part in new papers ...
 
 
 
-## Papers Must be read :(
+## Papers Must be Read :(
 
 ### Topic 1 - Knowledge Embedding
 
@@ -57,7 +61,6 @@ A repository to curate and summarize research papers related to knowledge graph 
 #### Neural Network
 
 - **[ConvE]** Convolutional 2D Knowledge Graph Embeddings. AAAI. 2018. [[paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17366)
-
 - **[ConvKB]** A Novel Embedding Model for Knowledge Base Completion Based on Convolutional Neural Network. NAACL-HLT. 2018. [[paper]](https://doi.org/10.18653/v1/n18-2053)
 
 
@@ -90,5 +93,22 @@ A repository to curate and summarize research papers related to knowledge graph 
 
 ## Playground :)
 
+### Knowledge Embedding
+- **[SACN]** End-to-end Structure-Aware Convolutional Networks for Knowledge Base Completion. AAAI. 2018. [[paper]](http://arxiv.org/abs/1811.04441)
+- **[RotatE]** RotatE: Knowledge Graph Embedding by Relational Rotation in Complex Space. ICLR.2018. [[paper]](https://openreview.net/forum?id=HkgEQnRqYQ)
+- **[TuckER]** TuckER: Tensor Factorization for Knowledge Graph Completion. EMNLP. 2019. [[paper]](http://arxiv.org/abs/1901.09590)
 
-coming soon ... 
+#### Open World Assumption
+
+- **[ConMask]** Open-World Knowledge Graph Completion. AAAI. 2018. [[paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16055)
+- **[Cmplx-OWE]** An Open-World Extension to Knowledge Graph Completion Models. AAAI. 2019. [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/4162)
+
+
+#### Zero/One/Few-shot
+
+
+### Path Reasoning
+
+### Rule mining
+- **[RLvLR]** Scalable Rule Learning via Learning Representation. IJCAI. 2018. [[paper]](https://www.ijcai.org/Proceedings/2018/297)
+- **[AnyBURL]** Anytime Bottom-Up Rule Learning for Knowledge Graph Completion. IJCAI. 2019. [[paper]](https://www.ijcai.org/Proceedings/2019/435)
