@@ -19,6 +19,7 @@ A repository to curate and summarize research papers related to knowledge graph 
   - [Playground :)](#playground-)
     - [Knowledge Embedding](#knowledge-embedding)
       - [Open World Assumption](#open-world-assumption)
+      - [Sparse KG](#sparse-kg)
       - [Zero/One/Few-shot](#zeroonefew-shot)
     - [Path Reasoning](#path-reasoning)
     - [Rule mining](#rule-mining)
@@ -101,8 +102,10 @@ A repository to curate and summarize research papers related to knowledge graph 
 #### Open World Assumption
 
 - **[ConMask]** Open-World Knowledge Graph Completion. AAAI. 2018. [[paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16055)
-- **[Cmplx-OWE]** An Open-World Extension to Knowledge Graph Completion Models. AAAI. 2019. [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/4162)
+- **[OWE]** An Open-World Extension to Knowledge Graph Completion Models. AAAI. 2019. [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/4162)
 
+#### Sparse KG
+- **[DacKGR]** Dynamic Anticipation and Completion for Multi-Hop Reasoning over Sparse Knowledge Graph. EMNLP. 2020. [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.459)
 
 #### Zero/One/Few-shot
 
