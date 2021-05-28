@@ -7,6 +7,7 @@ research papers related to **K**nowledge **G**raph **C**ompletion (KGC) task
 <!-- TOC -->
 
 - [Knowledge Graph Completion](#knowledge-graph-completion)
+  - [Scholar](#scholar)
   - [Survey :D](#survey-d)
   - [Papers Must be Read :(](#papers-must-be-read-)
     - [Topic 1 - Knowledge Embedding](#topic-1---knowledge-embedding)
@@ -23,6 +24,9 @@ research papers related to **K**nowledge **G**raph **C**ompletion (KGC) task
       - [Zero/One/Few-shot](#zeroonefew-shot)
 
 <!-- /TOC -->
+
+## Scholar
+- Jian Tang [[homepage]](https://jian-tang.com/)
 
 ## Survey :D
 

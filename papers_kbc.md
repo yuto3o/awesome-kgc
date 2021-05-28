@@ -8,10 +8,9 @@ research papers related to **K**nowledge **B**ase **C**onstruction (KBC) task
   - [Conference & Journal & Workshop](#conference--journal--workshop)
   - [Scholar](#scholar)
   - [Papers Must be Read :(](#papers-must-be-read-)
-    - [Information Extraction](#information-extraction)
-    - [Base Construction](#base-construction)
-    - [Commonsense Knowledge](#commonsense-knowledge)
-    - [Alignment](#alignment)
+    - [Topic 1 - Base Construction](#topic-1---base-construction)
+    - [Topic 2 - Commonsense Knowledge](#topic-2---commonsense-knowledge)
+    - [Topic 3 - Knowledge Alignment](#topic-3---knowledge-alignment)
 
 
 ## Conference & Journal & Workshop
@@ -36,10 +35,7 @@ research papers related to **K**nowledge **B**ase **C**onstruction (KBC) task
   
 ## Papers Must be Read :(
 
-
-### Information Extraction
-
-### Base Construction
+### Topic 1 - Base Construction
 - HowNet - a hybrid language and knowledge resource. NLPKE. 2003. [[paper]](https://ieeexplore.ieee.org/document/1276017)
   - OpenHowNet: An Open Sememe-based Lexical Knowledge Base. ArXiv. 2019. [[paper]](https://arxiv.org/abs/1901.09957)
 - NEIL: Extracting Visual Knowledge from Web Data. ICCV. 2013. [[paper]](https://ieeexplore.ieee.org/document/6751285)
@@ -62,14 +58,14 @@ research papers related to **K**nowledge **B**ase **C**onstruction (KBC) task
 - **[Ascent]** Advanced Semantics for Commonsense Knowledge Extraction. WWW. 2021. [[paper]](https://arxiv.org/abs/2011.00905)
 - **[DICE]** Joint Reasoning for Multi-Faceted Commonsense Knowledge, Yohan Chalier, Simon Razniewski and Gerhard Weikum. AKBC. 2020. [[paper]](https://www.akbc.ws/2020/papers/QnPV72SZVt)
 
-### Commonsense Knowledge
+### Topic 2 - Commonsense Knowledge
 
 - Commonsense Knowledge in Wikidata. ISWC. 2020. [[paper]](https://arxiv.org/abs/2008.08114)
 - CSKG: The CommonSense Knowledge Graph. ESWC. 2021. [[paper]](https://arxiv.org/abs/2012.11490)
 - Dimensions of Commonsense Knowledge. ArXiv. 2021. [[paper]](https://arxiv.org/abs/2101.04640)
 - Information to Wisdom: Commonsense Knowledge Extraction and Compilation. WSDM. 2021. [[paper]](https://doi.org/10.1145/3437963.3441664)
 
-### Alignment
+### Topic 3 - Knowledge Alignment
 
 - **[Survey]** A Benchmarking Study of Embedding-based Entity Alignment for Knowledge Graphs. VLDB. 2020. [[paper]](http://www.vldb.org/pvldb/vol13/p2326-sun.pdf)
 - **[MTransE]** Multilingual Knowledge Graph Embeddings for Cross-lingual Knowledge Alignment. IJCAI. 2017. [[paper]](https://www.ijcai.org/proceedings/2017/0209.pdf)
