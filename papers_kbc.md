@@ -64,6 +64,7 @@ research papers related to **K**nowledge **B**ase **C**onstruction (KBC) task
 - CSKG: The CommonSense Knowledge Graph. ESWC. 2021. [[paper]](https://arxiv.org/abs/2012.11490)
 - Dimensions of Commonsense Knowledge. ArXiv. 2021. [[paper]](https://arxiv.org/abs/2101.04640)
 - Information to Wisdom: Commonsense Knowledge Extraction and Compilation. WSDM. 2021. [[paper]](https://doi.org/10.1145/3437963.3441664)
+- CapableOf Reasoning: A Step Towards Commonsense Oracle. SIGIR. 2020. [[paper]](https://dl.acm.org/doi/10.1145/3397271.3401251)
 
 ### Topic 3 - Knowledge Alignment
 
