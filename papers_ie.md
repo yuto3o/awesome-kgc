@@ -10,6 +10,7 @@ research papers related to **I**nformation **E**xtraction (IE) task
     - [Survey](#survey)
     - [Topic 1 - Named Entity Recognition (NER)](#topic-1---named-entity-recognition-ner)
     - [Topic 2 - Relation Extraction (RE)](#topic-2---relation-extraction-re)
+      - [Distant Supervision](#distant-supervision)
     - [Topic 3 - Open Information Extraction (OpenIE)](#topic-3---open-information-extraction-openie)
 
 ## Scholar
@@ -36,6 +37,13 @@ research papers related to **I**nformation **E**xtraction (IE) task
 ### Topic 2 - Relation Extraction (RE)
 
 - Must-read papers on NRE. [[github]](https://github.com/thunlp/NREPapers)
+- Awesome Relation Extraction. [[github]](https://github.com/roomylee/awesome-relation-extraction)
+
+#### Distant Supervision
+
+- Distant supervision for relation extraction without labeled data. ACL/IJCNLP. 2009. [[paper]](https://www.aclweb.org/anthology/P09-1113/)
+- Distant Supervision for Relation Extraction via Piecewise Convolutional Neural Networks. EMNLP. 2015. [[paper]](https://doi.org/10.18653/v1/d15-1203)
+- Neural Relation Extraction with Selective Attention over Instances. ACL. 2016. [[paper]](https://doi.org/10.18653/v1/p16-1200)
 
 
 ### Topic 3 - Open Information Extraction (OpenIE)
@@ -53,3 +61,4 @@ research papers related to **I**nformation **E**xtraction (IE) task
   - **[SRLIE]** An Analysis of Open Information Extraction based on Semantic Role Labeling. KCAP. 2011. [[paper]](https://doi.org/10.1145/1999676.1999697)
   - **[Relnoun]** Demonyms and Compound Relational Nouns in Nominal Open IE. NAACL. 2016. [[paper]](https://doi.org/10.18653/v1/w16-1307)
 - **[OpenIE 5.x]** Open Information Extraction Systems and Downstream Applications. IJCAI. 2016. [[paper]](http://www.ijcai.org/Abstract/16/604)
+- **[OpenIE 6.x]** OpenIE6: Iterative Grid Labeling and Coordination Analysis for Open Information Extraction. EMNLP. 2020. [[paper]](https://doi.org/10.18653/v1/2020.emnlp-main.306) 
