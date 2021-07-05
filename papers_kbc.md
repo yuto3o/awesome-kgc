@@ -60,11 +60,19 @@ research papers related to **K**nowledge **B**ase **C**onstruction (KBC) task
 
 ### Topic 2 - Commonsense Knowledge
 
+#### Down
+- Automatic Extraction of Commonsense LocatedNear Knowledge. ACL. 2018. [[paper]](https://aclanthology.org/P18-2016/)
+- CapableOf Reasoning: A Step Towards Commonsense Oracle. SIGIR. 2020. [[paper]](https://dl.acm.org/doi/10.1145/3397271.3401251)
+- Mining Verb-Oriented Commonsense Knowledge. ICDE. 2020. [[paper]](https://ieeexplore.ieee.org/document/9101187/)
+- Causal Knowledge Extraction through Large-Scale Text Mining. AAAI. 2020. [[paper]](https://ojs.aaai.org//index.php/AAAI/article/view/7092)
+- Causal Knowledge Extraction from Text using Natural Language Inference. AAAI. 2021. [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17876)
+- Causal Inference of Script Knowledge. EMNLP. 2020. [[paper]](https://aclanthology.org/2020.emnlp-main.612/)
+
+#### Top
 - Commonsense Knowledge in Wikidata. ISWC. 2020. [[paper]](https://arxiv.org/abs/2008.08114)
 - CSKG: The CommonSense Knowledge Graph. ESWC. 2021. [[paper]](https://arxiv.org/abs/2012.11490)
 - Dimensions of Commonsense Knowledge. ArXiv. 2021. [[paper]](https://arxiv.org/abs/2101.04640)
 - Information to Wisdom: Commonsense Knowledge Extraction and Compilation. WSDM. 2021. [[paper]](https://doi.org/10.1145/3437963.3441664)
-- CapableOf Reasoning: A Step Towards Commonsense Oracle. SIGIR. 2020. [[paper]](https://dl.acm.org/doi/10.1145/3397271.3401251)
 
 ### Topic 3 - Knowledge Alignment
 
